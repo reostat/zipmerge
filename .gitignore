@@ -1,3 +1,9 @@
+# IntelliJ IDEA
+
+*.iml
+.idea/
+
+# Maven
 target/
 pom.xml.tag
 pom.xml.releaseBackup
