@@ -10,4 +10,7 @@ Written as an exercise for coding challenge.
 Caveat: some consider big-O notation deceiving.
 
 ## How to run
-This is a standard Maven project, use `mvn test`
+This is a standard Maven project, use `mvn test`.
+
+There's also a profile for code coverage; run `mvn test -Pcoverage`.
+Results will be in target/site/jacoco/index.html.

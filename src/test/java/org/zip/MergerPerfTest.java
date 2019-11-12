@@ -14,6 +14,9 @@ import java.util.stream.IntStream;
 import static org.hamcrest.Matchers.contains;
 import static org.junit.Assert.assertThat;
 
+/**
+ * Performance comparison test
+ */
 public class MergerPerfTest {
 
     private static class Merger {
